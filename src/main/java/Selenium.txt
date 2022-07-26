@@ -1,0 +1,28 @@
+There are four parts of selenium
+    1. The Selenium Standalone Server
+    2. The Selenium client libraries/language bindings
+    3. Selenium Grid
+    4. Selenium IDE
+
+Selenium WebDriver : Language specific API to implement the WebDriver protocol, which enables us to programmatically interact with a browser to simulate user interaction.
+
+Selenium Script
+There are seven actions of a Selenium Script
+The seven steps are
+    1. Instantiate a WebDriver Object
+    2. Navigate to the webpage you want to test
+    3. Locate the element on the webpage you need to interact with
+    4. Ensure the browser is in the correct state to interact with that element
+    5. Perform the action on the element
+    6. Record the test result
+    7. Quit the test
+
+
+Test Runners
+    1. Java-Testing, JUnit
+    2. C# - Nunit, MsTest
+    3. Python - Pytest, Nose
+    4. Javascript - Karma, Protractor, Webdriverio
+    5. Ruby - Rspec, Cucumber, Minitest
+
+
